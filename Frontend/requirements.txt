@@ -1,8 +1,0 @@
-# Backend
-npm init -y
-npm install express multer @tensorflow/tfjs-node cors
-
-# Frontend
-npx create-react-app client
-cd client
-npm install axios
