@@ -1,4 +1,3 @@
-![WhatsApp Image 2024-11-25 at 21 25 45_a4360598](https://github.com/user-attachments/assets/7d6be9c5-245d-43cb-a1e2-f0d25a49d538)
 ---
 ## *1. Project Setup*
 
@@ -91,6 +90,9 @@ Visit http://127.0.0.1:8000 in your browser to open the application.
 ---
 
 ## *3. Workflow*
+
+![WhatsApp Image 2024-11-25 at 21 25 45_a4360598](https://github.com/user-attachments/assets/7d6be9c5-245d-43cb-a1e2-f0d25a49d538)
+---
 
 ### *How It Works*
 #### *Frontend (Social Media Post Integration)*
