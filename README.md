@@ -139,6 +139,8 @@ Visit http://127.0.0.1:8000 in your browser to open the application.
 
    [![Watch the video](https://img.youtube.com/vi/gY1FcMWlBcY/maxresdefault.jpg)](https://youtu.be/gY1FcMWlBcY)
 
+   ## *Click on the image to watch on Youtube*
+
 ---
 
 ## *5. Deployment*
