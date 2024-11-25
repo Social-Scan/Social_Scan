@@ -137,6 +137,8 @@ Visit http://127.0.0.1:8000 in your browser to open the application.
 2. Verify if the plugin appears on the post.
 3. Click on the plugin and ensure product listings appear.
 
+   [![Watch the video](https://img.youtube.com/vi/gY1FcMWlBcY/maxresdefault.jpg)](https://youtu.be/gY1FcMWlBcY)
+
 ---
 
 ## *5. Deployment*
