@@ -30,7 +30,8 @@ cd social_to_amazon
 Set up and activate a virtual environment to manage Python dependencies:
 bash
 python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+source .venv/bin/activate  
+# On Windows: .venv\Scripts\activate
 
 
 ---
@@ -100,6 +101,7 @@ Visit http://127.0.0.1:8000 in your browser to open the application.
    - When the plugin is clicked, it sends a request to the backend (/fetch-product-listing/) to analyze the post and fetch related Amazon products.
   
 ![WhatsApp Image 2024-11-25 at 20 49 22_d2acd38b](https://github.com/user-attachments/assets/735b58a8-257a-46b0-849e-2cca33ab12b5)
+---
 
 #### *Backend (Processing and Amazon Integration)*
 1. *OCR and Object Detection*:
@@ -115,6 +117,7 @@ Visit http://127.0.0.1:8000 in your browser to open the application.
 
 ![WhatsApp Image 2024-11-25 at 20 49 20_c09bdc46](https://github.com/user-attachments/assets/4a9c34b7-3891-4319-8fd0-ff5d38f7bc0b)
 
+---
 
 ## *4. Testing*
 
