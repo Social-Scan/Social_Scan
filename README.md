@@ -98,6 +98,8 @@ Visit http://127.0.0.1:8000 in your browser to open the application.
 
 2. *On Click*:
    - When the plugin is clicked, it sends a request to the backend (/fetch-product-listing/) to analyze the post and fetch related Amazon products.
+  
+![WhatsApp Image 2024-11-25 at 20 49 22_d2acd38b](https://github.com/user-attachments/assets/735b58a8-257a-46b0-849e-2cca33ab12b5)
 
 #### *Backend (Processing and Amazon Integration)*
 1. *OCR and Object Detection*:
