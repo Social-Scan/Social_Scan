@@ -1,0 +1,36 @@
+{
+  "name": "image-object-search",
+  "version": "1.0.0",
+  "description": "Image Object Search and Classification Tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "node server.js",
+    "start-client": "cd client && npm start",
+    "dev": "concurrently \"npm run start-server\" \"npm run start-client\""
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.16.0",
+    "axios": "^1.6.2",
+    "concurrently": "^9.1.0",
+    "express": "^4.21.1",
+    "jimp": "^0.22.10",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "eslint": "^8.56.0",
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "image-classification",
+    "tensorflow",
+    "machine-learning"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
