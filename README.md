@@ -117,7 +117,6 @@ Visit http://127.0.0.1:8000 in your browser to open the application.
 3. *Product Listing Modal*:
    - The frontend displays the fetched Amazon products in a modal, showing the product name, price, and link.
 
-![WhatsApp Image 2024-11-25 at 20 49 20_c09bdc46](https://github.com/user-attachments/assets/4a9c34b7-3891-4319-8fd0-ff5d38f7bc0b)
 
 ---
 
